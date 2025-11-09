@@ -8,7 +8,7 @@
 - 不作恶、跨平台
 
 ## 安装与使用（ChatGPT）
-- 打开项目目录：cd D:\untitled\1
+- 打开项目目录
 - 安装依赖：npm install
 - 开发调试：npm run dev → 浏览器访问 http://localhost:3000
 - 生产构建（可选）：npm run build:renderer
