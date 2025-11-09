@@ -7,8 +7,12 @@
 - 支持多种内容类型：事件、小说、番剧、电视剧、电影等
 - 不作恶、跨平台
 
-## 安装与使用
-
+## 安装与使用（ChatGPT）
+- 打开项目目录：cd D:\untitled\1
+- 安装依赖：npm install
+- 开发调试：npm run dev → 浏览器访问 http://localhost:3000
+- 生产构建（可选）：npm run build:renderer
+- 生产预览（可选）：serve dist
 
 ## 开源协议
 本项目使用 **Apache License 2.0** 开源
